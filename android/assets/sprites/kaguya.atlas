@@ -1,0 +1,34 @@
+
+kaguya.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kaguya-down
+  rotate: false
+  xy: 198, 2
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+kaguya-left
+  rotate: false
+  xy: 2, 2
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+kaguya-right
+  rotate: false
+  xy: 296, 2
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+kaguya-up
+  rotate: false
+  xy: 100, 2
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1

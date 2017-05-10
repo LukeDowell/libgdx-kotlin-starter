@@ -106,6 +106,9 @@ idea {
         sourceDirs += file("src");
         scopes = [COMPILE: [plus: [project.configurations.compile]]]
 
+        sourceCompatibility = 1.7
+        targetCompatibility = 1.7
+
         iml {
             withXml {
                 def node = it.asNode()
